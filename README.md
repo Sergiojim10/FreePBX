@@ -12,3 +12,4 @@ Actualización de trabajo:
 - Montamos primer backend
 - Formulario de registro de clientes
 - Guardamos en archivo local (vamos a mejorarlo)
+- Base de datos PostgreSQL creada en Neon
